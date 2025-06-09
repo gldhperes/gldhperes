@@ -1,5 +1,6 @@
 ### Olá, eu sou Guilherme Peres 👋
 https://gldhperes.github.io/Portfolio/
+https://gperesportifolio.netlify.app/
 
 <div align="center">
   <a href="https://github.com/gldhperes">
