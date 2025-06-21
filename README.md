@@ -21,7 +21,7 @@ https://www.guilhermeperes.com.br
  
 </div>
  
-<div  style="margin-top: 20 "> 
+<div  style="margin-top: '20px' "> 
   <a href="https://www.youtube.com/channel/UCCkaGDLodfkrjxpB32IEg8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/guilherme.peres2308/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gldhperes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
