@@ -1,6 +1,6 @@
 ### Olá, eu sou Guilherme Peres 👋
 
-<div align="center">
+<div align="start">
   <p> Portfolio: https://www.guilhermeperes.com.br </p>
   <p> Linkedin: https://www.linkedin.com/in/guilherme-peres-2902a5251 </p>
 </div>
