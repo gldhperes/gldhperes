@@ -1,6 +1,7 @@
 ### Olá, eu sou Guilherme Peres 👋
 
-https://www.guilhermeperes.com.br
+Portfolio: https://www.guilhermeperes.com.br
+Linkein: https://www.linkedin.com/in/guilherme-peres-2902a5251/
 
 
 
