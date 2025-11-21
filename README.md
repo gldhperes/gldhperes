@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gldhperes/gldhperes/main/assets/banner.png" alt="Banner de Perfil - Guilherme Peres" width="100%"/>
+  <img src="https://raw.githubusercontent.com/gldhperes/gldhperes/main/assets/banner.png" alt="Profile Banner - Guilherme Peres" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-peres-2902a5251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.guilhermeperes.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:gldhperes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://github.com/gldhperes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </div>
 
@@ -19,24 +19,24 @@ Currently, I work with **React, NodeJS, Typescript, Javascript, Git**, and **Uni
 
 ## 💡 Key Skills / Habilidades Principais
 
-*   ⚙️ Desenvolvimento de aplicações web e jogos
-*   🧱 Arquitetura de software com foco em **React** e **NodeJS**
-*   🎮 Experiência com desenvolvimento de jogos em **Unity** e **C#**
-*   🔄 Git e GitHub para controle de versão
-*   🤝 Colaboração em equipes e comunicação eficaz
-*   💬 Paixão por aprender e resolver problemas complexos
+*   ⚙️ Web and game application development
+*   🧱 Software architecture with a focus on **React** and **NodeJS**
+*   🎮 Game development experience with **Unity** and **C#**
+*   🔄 Git and GitHub for version control
+*   🤝 Collaboration in teams and effective communication
+*   💬 Passion for learning and solving complex problems
 
-> 💭 “A tecnologia é a ferramenta, mas a criatividade é o motor que transforma o código em algo memorável.”
+> 💭 “Technology is the tool, but creativity is the engine that transforms code into something memorable.”
 
 ## 🛠 Tech Stack
 
 #### Frontend
 
-React · Next.js (Presumido) · TypeScript · JavaScript · HTML5 · CSS3
+React · Next.js (Assumed) · TypeScript · JavaScript · HTML5 · CSS3
 
 #### Backend
 
-NodeJS · Express (Presumido) · MongoDB (Presumido)
+NodeJS · Express (Assumed) · MongoDB (Assumed)
 
 #### Game Development
 
@@ -46,36 +46,26 @@ Unity · C# · UIToolkit
 
 Git · GitHub · VS Code
 
-## 💼 Professional Experience / Experiência Profissional
-
-*   👨‍💻 **Desenvolvedor Web e de Jogos** _(Detalhes a serem preenchidos pelo usuário)_  
-    _Por favor, insira aqui sua experiência profissional relevante, seguindo o formato do Marcos Aurélio._
-
 ## 🌟 Featured Projects / Projetos em Destaque
 
 ### 🧩 Personal Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [CSS-FX]() | Aplicação de rede social para armazenar e compartilhar snippets de código HTML, CSS e JS. | MongoDB, Express, React, NodeJS |
-| [YouTube Clone]() | Clone do YouTube feito com React, utilizando TailwindCSS e Rapid API. | React, TailwindCSS, Javascript |
-| [Moody Madness]() | Jogo de corrida multiplayer NTF. | Unity, C#, UIToolkit |
-| [Gnome Buster]() | Jogo Top-down GameJam onde o objetivo é identificar e capturar gnomos. | Unity, C#, UIToolkit |
+| [CSS-FX](https://css-fx.netlify.app/) | Social network application to store and share HTML, CSS and JS code snippets. | MongoDB, Express, React, NodeJS |
+| [YouTube Clone](https://yut-clone.netlify.app/) | YouTube clone made with React, using TailwindCSS and Rapid API. | React, TailwindCSS, Javascript |
+| [Moody Madness](https://moodymadness.com/) | NTF multiplayer racing game. | Unity, C#, UIToolkit |
+| [Gnome Buster](https://gldhperes.itch.io/gnome-buster) | Top-down GameJam game where you must identify and capture gnomes. | Unity, C#, UIToolkit |
 
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gldhperes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Guilherme Peres"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gldhperes&layout=compact&theme=dark" alt="Linguagens Mais Usadas do Guilherme Peres"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gldhperes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Guilherme Peres' GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gldhperes&layout=compact&theme=dark" alt="Guilherme Peres' Most Used Languages"/>
 </div>
 
 ## 🌎 Let's Connect / Contato
 
 *   🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-peres-2902a5251/)
 *   🌐 [Portfolio](https://www.guilhermeperes.com.br/)
-*   📧 Email: **[seuemail@exemplo.com]** (Substitua pelo seu email)
-
----
-<div align="center">
-  Feito com ❤️ por Manus.
-</div>
+*   📧 [Email](gldhperes@gmail.com)
