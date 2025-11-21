@@ -1,6 +1,6 @@
-### Hello there! I'm Guilherme Peres 👋
+# Hello there! I'm Guilherme Peres 👋
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/guilherme-peres-2902a5251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.guilhermeperes.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
   <a href="mailto:gldhperes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
