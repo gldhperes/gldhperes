@@ -1,4 +1,4 @@
-# Hello there! I'm Guilherme Peres 👋
+# Hello there! I'm **Guilherme Peres** 👋
 
 <div align="start">
   <a href="https://www.linkedin.com/in/guilherme-peres-2902a5251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me / Sobre mim
 
-I’m **Guilherme Peres**, a **Web and Game Developer** from Ceará, Brazil, passionate about creating engaging and functional digital experiences.
+I’m a **Web and Game Developer** from Ceará, Brazil, passionate about creating engaging and functional digital experiences.
 
 > 🇧🇷 Sou **Desenvolvedor Web e de Jogos**, com foco em **Frontend** e experiência em **Backend**. Adoro enfrentar desafios e busco constantemente projetos significativos que transformem ideias em realidade.
 
@@ -23,8 +23,6 @@ Currently, I work with **React, NodeJS, Typescript, Javascript, Git**, and **Uni
 *   🔄 Git and GitHub for version control
 *   🤝 Collaboration in teams and effective communication
 *   💬 Passion for learning and solving complex problems
-
-> 💭 “Technology is the tool, but creativity is the engine that transforms code into something memorable.”
 
 ## 🛠 Tech Stack
 
