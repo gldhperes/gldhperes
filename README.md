@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gldhperes/gldhperes/main/assets/banner.png" alt="Profile Banner - Guilherme Peres" width="100%"/>
-</div>
+### Hello there! I'm Guilherme Peres 👋
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-peres-2902a5251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
